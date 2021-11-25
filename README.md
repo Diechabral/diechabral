@@ -1,5 +1,5 @@
 ## Oiii! Eu sou Diego Cabral, programador e criador de conteúdo de tecnologia!
-//
+
 <div align="center">
   <a href="https://github.com/diechabral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diechabral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="dichabral-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="dichabral-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-  *//
+  
   
   #
  
